@@ -1,0 +1,1 @@
+print('Função implementada')
